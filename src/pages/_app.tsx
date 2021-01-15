@@ -13,7 +13,7 @@ function App({ Component, pageProps }: AppProps) {
         <meta name="description" content="Boilerplate TS, NextJS" />
       </Head>
       <GlobalStyles />
-      <Component {...pageProps} />;
+      <Component {...pageProps} />
     </>
   );
 }
