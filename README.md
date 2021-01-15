@@ -3,11 +3,9 @@ A TypeScript starter for Next.js that includes all you need to build amazing pro
 - 📏 **ESLint** — Pluggable JavaScript linter
 - 💖 **Prettier** - Opinionated Code Formatter
 - 🐶 **Husky** — Use git hooks with ease
-- 📄 **Commitizen** - Conventional commit messages CLI
-- 🚓 **Commitlint** - Lint commit messages
 - 🚫 **lint-staged** - Run linters against staged git files
 - 🐙 **React Testing Library (RTL)** - builds by adding APIs for working with React components
-- 🧪 **Jest** - a delightful JavaScript Testing Framework with a focus on simplicity
+- 🃏 **Jest** - a delightful JavaScript Testing Framework with a focus on simplicity
 - 💅 **Styled Components (with SSR)** - Use the best bits of ES6 and CSS to style your apps without stress
 
 
