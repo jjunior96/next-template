@@ -12,7 +12,7 @@ function App({ Component, pageProps }: AppProps) {
         <link rel="apple-touch-icon" href="/img/icon-512.png" />
         <meta name="description" content="App Name" />
       </Head>
-        <Component {...pageProps} />
+      <Component {...pageProps} />
       <GlobalStyles />
     </>
   );
