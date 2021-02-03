@@ -1,11 +1,7 @@
 {
+  "presets": ["next/babel"],
   "plugins": [
-    [
-      "babel-plugin-styled-components",
-      {
-        "ssr": true
-      }
-    ]
-  ],
-  "presets": ["next/babel", "@babel/preset-typescript"]
+    "inline-react-svg",
+    ["styled-components", { "ssr": true }]
+  ]
 }
