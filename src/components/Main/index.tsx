@@ -1,11 +1,11 @@
-import Image from 'next/image';
+import { Container } from './styles';
 
-const Main = () => (
-  <main>
-    <h1>App Name</h1>
-    <Image src="/assets/vercel.svg" width={1000} height={1000} />
-    <Image src="/assets/bg.png" width={1000} height={1000} />
-  </main>
-);
+const Main: React.FC = () => {
+  return (
+    <Container>
+      <h1>Main</h1>
+    </Container>
+  );
+};
 
 export default Main;
