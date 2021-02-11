@@ -19,4 +19,3 @@ export const Content = styled.div`
     color: #fff;
   }
 `;
-
