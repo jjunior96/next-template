@@ -8,8 +8,9 @@ function App({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>App Name</title>
-        <link rel="shorcut icon" href="/img/icon-512.png" />
-        <link rel="apple-touch-icon" href="/img/icon-512.png" />
+        <link rel="shorcut icon" href="/img/bg.png" />
+        <link rel="apple-touch-icon" href="/img/bg.png" />
+        <link rel="manifest" href="/manifest.json" />
         <meta name="description" content="App Name" />
       </Head>
       <Component {...pageProps} />
