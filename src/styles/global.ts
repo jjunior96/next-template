@@ -48,6 +48,7 @@ const GlobalStyles = createGlobalStyle`
   body {
     font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     background-color: #0c0f16;
+    -webkit-font-smoothing: antialiased !important;
   }
 
   button {
