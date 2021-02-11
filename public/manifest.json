@@ -1,0 +1,21 @@
+{
+  "name": "App name",
+  "short_name": "APP",
+  "icons": [
+    {
+      "src": "/img/bg.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/bg.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#0c0f16",
+  "description": "App PWA",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#0c0f16"
+}
