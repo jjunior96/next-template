@@ -1,5 +1,7 @@
 import Image from 'next/image';
 
+// import { Container } from './styles';
+
 const Main = ({ title = 'App Name' }) => (
   <main>
     <h1>{title}</h1>

@@ -1,9 +1,9 @@
-import Main from 'components/Main';
+import Dashboard from 'templates/Dashboard';
 
 export default function Home() {
   return (
     <>
-      <Main />
+      <Dashboard />
     </>
   );
 }
