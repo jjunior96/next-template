@@ -1,10 +1,9 @@
 import Image from 'next/image';
 
-const Main = () => (
+const Main = ({ title = 'App Name' }) => (
   <main>
-    <h1>React Avançado</h1>
-    <Image src="/assets/vercel.svg" width={1000} height={1000} />
-    <Image src="/assets/bg.png" width={1000} height={1000} />
+    <h1>{title}</h1>
+    <Image src="/assets/vercel.svg" width={100} height={100} />
   </main>
 );
 
