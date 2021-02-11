@@ -7,13 +7,14 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Boilerplate</title>
-        <link rel="shorcut icon" href="/img/icon-512.png" />
-        <link rel="apple-touch-icon" href="/img/icon-512.png" />
-        <meta name="description" content="Boilerplate TS, NextJS" />
+        <title>App Name</title>
+        <link rel="shorcut icon" href="/img/bg.png" />
+        <link rel="apple-touch-icon" href="/img/bg.png" />
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="description" content="App Name" />
       </Head>
-      <GlobalStyles />
       <Component {...pageProps} />
+      <GlobalStyles />
     </>
   );
 }
