@@ -10,6 +10,7 @@
     "test": "jest",
     "lint": "eslint src --max-warnings=0",
     "test:watch": "yarn test --watch",
+    "generate": "yarn plop --plopfile generators/plopfile.js",
     "storybook": "start-storybook -s ./public -p 6006",
     "build-storybook": "build-storybook"
   },
@@ -30,11 +31,11 @@
     "axios": "^0.21.1",
     "next": "10.0.4",
     "next-pwa": "^5.0.2",
+    "polished": "^4.1.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-icons": "^4.1.0",
     "react-spring": "^8.0.27",
-    "polished": "^4.1.0",
     "styled-components": "5.2.1",
     "yup": "^0.32.8"
   },
