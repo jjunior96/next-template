@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle, css } from 'styled-components';
 
 const GlobalStyles = createGlobalStyle`
   @font-face {
@@ -37,19 +37,22 @@ const GlobalStyles = createGlobalStyle`
     -moz-osx-font-smoothing: grayscale;
   }
 
-  html {
-    font-size: 62.5%;
-  }
-
-  html, body, #__next {
+  /* html, body, #__next {
     height: 100%;
-  }
+  } */
 
-  body {
-    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background-color: #0c0f16;
-    -webkit-font-smoothing: antialiased !important;
-  }
+  ${({ theme }) => css`
+    html {
+      font-size: 62.5%;
+    }
+
+    body {
+      font-family: ${theme.font.family};
+      font-size: ${theme.font.sizes.medium};
+      background-color: #0c0f16;
+      -webkit-font-smoothing: antialiased !important;
+    }
+  `}
 
   button {
     cursor: pointer;
