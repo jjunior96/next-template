@@ -40,7 +40,7 @@
     "yup": "^0.32.9"
   },
   "devDependencies": {
-    "@babel/preset-typescript": "^7.12.16",
+    "@babel/preset-typescript": "^7.12.17",
     "@babel/core": "^7.12.17",
     "@storybook/addon-essentials": "6.1.18",
     "@storybook/react": "6.1.18",
