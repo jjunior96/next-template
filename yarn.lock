@@ -2756,10 +2756,17 @@
     "@typescript-eslint/types" "4.15.1"
     eslint-visitor-keys "^2.0.0"
 
-"@unform/core@2.1.5", "@unform/core@^2.1.3":
+"@unform/core@2.1.5":
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/@unform/core/-/core-2.1.5.tgz#e31e85a70c5068a81dd3f780829c6f423ca73d61"
   integrity sha512-S//s1BQ1p2zl29LnIB7Qb+Vm3WvNSk0lt4BeOt4emxex+SYqqOvg8C19IPL+aKPQUuhAYHg5TNNXAA12wU7Z9A==
+  dependencies:
+    dot-object "^2.1.4"
+
+"@unform/core@^2.1.6":
+  version "2.1.6"
+  resolved "https://registry.yarnpkg.com/@unform/core/-/core-2.1.6.tgz#75df5fe813d4e94af46ad3570da068ff13d71b99"
+  integrity sha512-coz9rOS1Y+0zygxTTQB+hY1HJ5ee0A40KBdIy/1IdaiFGT5LhZhCWqMorFh8KcqY3J+SInrpGDMmJYObsjEW9w==
   dependencies:
     dot-object "^2.1.4"
 
