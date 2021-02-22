@@ -1,7 +1,6 @@
 {
   "name": "app-name",
   "version": "0.1.0",
-  "private": true,
   "author": "Junior Alves <jjalves96@gmail.com>",
   "scripts": {
     "dev": "next dev",
