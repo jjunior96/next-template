@@ -2386,17 +2386,17 @@
   dependencies:
     core-js "^3.0.1"
 
-"@storybook/react@6.1.19":
-  version "6.1.19"
-  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.1.19.tgz#cd3dd2c29a77c4264d6369d6f8d3c58ad34eab80"
-  integrity sha512-yDz8JI6eGMgKHj+UHrR4Lzz3cZMi3vVIPGgaHxrVh18RTNpsmQCZ7KeA6dVtxvLHhVz4izHXX03gFYXHPwZL9w==
+"@storybook/react@6.1.20":
+  version "6.1.20"
+  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.1.20.tgz#0e2b858107fc139aa01a1d0fb2dca0611dd2224b"
+  integrity sha512-9NCWxLXJSjEy/DP9fC8Uj7zUljPA6eREjZuNElHGRI/Tg5R/QBuQnBJX9EagLic1lzpcUbsfWJ/+Bpa2qLXAEw==
   dependencies:
     "@babel/preset-flow" "^7.12.1"
     "@babel/preset-react" "^7.12.1"
     "@pmmmwh/react-refresh-webpack-plugin" "^0.4.2"
-    "@storybook/addons" "6.1.19"
-    "@storybook/core" "6.1.19"
-    "@storybook/node-logger" "6.1.19"
+    "@storybook/addons" "6.1.20"
+    "@storybook/core" "6.1.20"
+    "@storybook/node-logger" "6.1.20"
     "@storybook/semver" "^7.3.2"
     "@types/webpack-env" "^1.15.3"
     babel-plugin-add-react-displayname "^0.0.5"
@@ -2406,7 +2406,7 @@
     global "^4.3.2"
     lodash "^4.17.15"
     prop-types "^15.7.2"
-    react-dev-utils "^10.0.0"
+    react-dev-utils "^11.0.3"
     react-docgen-typescript-plugin "^0.6.2"
     react-refresh "^0.8.3"
     regenerator-runtime "^0.13.7"
