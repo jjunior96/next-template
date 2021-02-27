@@ -1,11 +1,11 @@
 import Main from 'components/Main';
-import { Container } from './styles';
+import * as S from './styles';
 
 const Dashboard: React.FC = () => {
   return (
-    <Container>
+    <S.Container>
       <Main />
-    </Container>
+    </S.Container>
   );
 };
 
