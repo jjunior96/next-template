@@ -6,6 +6,9 @@ export default {
   border: {
     radius: '0.4rem'
   },
+  box: {
+    shadow: '0 8px 8px #eee'
+  },
   font: {
     family:
       "Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif",
