@@ -7,7 +7,7 @@ export default {
     radius: '0.4rem'
   },
   box: {
-    shadow: '0 8px 8px #eee'
+    shadow: '0 8px 8px rgba(0, 0, 0, 0.08)'
   },
   font: {
     family:
