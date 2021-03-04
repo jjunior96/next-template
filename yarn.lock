@@ -2378,17 +2378,17 @@
   dependencies:
     core-js "^3.0.1"
 
-"@storybook/react@6.1.20":
-  version "6.1.20"
-  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.1.20.tgz#0e2b858107fc139aa01a1d0fb2dca0611dd2224b"
-  integrity sha512-9NCWxLXJSjEy/DP9fC8Uj7zUljPA6eREjZuNElHGRI/Tg5R/QBuQnBJX9EagLic1lzpcUbsfWJ/+Bpa2qLXAEw==
+"@storybook/react@6.1.21":
+  version "6.1.21"
+  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.1.21.tgz#1c4d01dba8d8f130f9b7da4038a380eeb9c61f38"
+  integrity sha512-j3gq/ssWxRCCH5iCHbP3ihXSGS7lVWh1HpmBmGbbhHGHgdmSPsRjwDXiQGE81EmE7bzbC8NECBhU3zHJ6h1TvA==
   dependencies:
     "@babel/preset-flow" "^7.12.1"
     "@babel/preset-react" "^7.12.1"
     "@pmmmwh/react-refresh-webpack-plugin" "^0.4.2"
-    "@storybook/addons" "6.1.20"
-    "@storybook/core" "6.1.20"
-    "@storybook/node-logger" "6.1.20"
+    "@storybook/addons" "6.1.21"
+    "@storybook/core" "6.1.21"
+    "@storybook/node-logger" "6.1.21"
     "@storybook/semver" "^7.3.2"
     "@types/webpack-env" "^1.15.3"
     babel-plugin-add-react-displayname "^0.0.5"
