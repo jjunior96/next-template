@@ -42,7 +42,7 @@ const GlobalStyles = createGlobalStyle`
       font-size: 62.5%;
     }
 
-    body {
+    body, input, textarea, button {
       font-family: ${theme.font.family};
       font-size: ${theme.font.sizes.medium};
       background-color: #0c0f16;
