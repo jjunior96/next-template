@@ -43,7 +43,7 @@
     "@storybook/react": "6.1.21",
     "@storybook/addon-essentials": "6.1.21",
     "@testing-library/jest-dom": "^5.11.10",
-    "@testing-library/react": "^11.2.2",
+    "@testing-library/react": "^11.2.6",
     "@types/jest": "^26.0.22",
     "@types/react": "^17.0.3",
     "@types/styled-components": "^5.1.9",
