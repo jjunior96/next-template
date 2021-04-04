@@ -1,4 +1,5 @@
 import Main from 'components/Main';
+
 import * as S from './styles';
 
 const Dashboard: React.FC = () => {
