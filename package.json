@@ -30,7 +30,7 @@
     "@unform/web": "^2.1.6",
     "axios": "^0.21.1",
     "next": "10.1.2",
-    "next-pwa": "^5.0.6",
+    "next-pwa": "^5.1.4",
     "polished": "^4.1.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
