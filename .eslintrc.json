@@ -34,14 +34,15 @@
     "import-helpers/order-imports": [
       "warn",
       {
-        "newlinesBetween": "always", // new line between groups
+        "newlinesBetween": "always", // Cria uma nova linha para separar as importacoes
         "groups": [
-          "/^react/",
+          ["/^react/", "/^next/"],
           "module",
           "/^@shared/",
           "absolute",
           "/^components/",
           "/^pages/",
+          "/^store/",
           "/^styles/",
           "/^templates/",
           ["parent", "sibling", "index"]
