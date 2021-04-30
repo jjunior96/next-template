@@ -29,8 +29,8 @@
     "@unform/core": "^2.1.6",
     "@unform/web": "^2.1.6",
     "axios": "^0.21.1",
-    "next-pwa": "^5.2.15",
     "next": "10.2.0",
+    "next-pwa": "^5.2.16",
     "polished": "^4.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
@@ -38,7 +38,7 @@
     "styled-components": "5.2.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.16",
+    "@babel/core": "^7.14.0",
     "@babel/preset-typescript": "^7.13.0",
     "@storybook/addon-essentials": "6.2.9",
     "@testing-library/jest-dom": "^5.12.0",
