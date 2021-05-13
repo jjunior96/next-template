@@ -38,7 +38,6 @@ To view the project open `http://localhost:3000`.
 4. Push to the branch: `git push origin my-new-feature`.
 
 **After your pull request is merged**, you can safely delete your branch.
-
 ---
 
 Made with ♥ by Junior Alves
