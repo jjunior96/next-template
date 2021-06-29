@@ -48,7 +48,7 @@
     "@types/node": "^15.12.5",
     "@types/styled-components": "^5.1.10",
     "@types/react": "^17.0.11",
-    "@typescript-eslint/parser": "^4.28.0",
+    "@typescript-eslint/parser": "^4.28.1",
     "@typescript-eslint/eslint-plugin": "^4.28.0",
     "babel-loader": "^8.2.2",
     "babel-plugin-inline-react-svg": "^2.0.1",
