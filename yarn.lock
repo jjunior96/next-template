@@ -9360,10 +9360,10 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-next-pwa@^5.2.23:
-  version "5.2.23"
-  resolved "https://registry.yarnpkg.com/next-pwa/-/next-pwa-5.2.23.tgz#581a50bc9892c9d3ae7be5c9bbf590becf376f0e"
-  integrity sha512-nGYp0zliA0lJBoKETEZgW4kaiBckF8m9xpBw3VQ+EyVJ57Bn5HfFeNZUvFi2mvDiiwBuqf34baQIt8EhiN8k+A==
+next-pwa@^5.2.24:
+  version "5.2.24"
+  resolved "https://registry.yarnpkg.com/next-pwa/-/next-pwa-5.2.24.tgz#bc78d9905ba29b585dffc0f6076cd2a7e5692cb7"
+  integrity sha512-gDGcRfoCsNUjgzH7HQVqJxEN4mR1uA3i+AeK1sgiwSeamQu3hl4fgu9wclPjRj2R5iyWs2EkTfHum7Qy712NbQ==
   dependencies:
     babel-loader "^8.2.2"
     clean-webpack-plugin "^3.0.0"
