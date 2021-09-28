@@ -1,6 +1,6 @@
 import { Container, Content } from './styles';
 
-const Main = ({ title = 'App Name' }) => (
+const Main = ({ title = 'Next Example' }) => (
   <Container>
     <Content>
       <h1>{title}</h1>
