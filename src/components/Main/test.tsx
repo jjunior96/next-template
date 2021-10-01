@@ -7,7 +7,7 @@ describe('<Main />', () => {
     render(<Main />);
 
     expect(
-      screen.getByRole('heading', { name: /app name/i })
+      screen.getByRole('heading', { name: /Next Example/i })
     ).toBeInTheDocument();
   });
 });
