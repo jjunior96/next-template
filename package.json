@@ -46,7 +46,7 @@
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.0.2",
     "@types/node": "^16.10.3",
-    "@types/styled-components": "^5.1.14",
+    "@types/styled-components": "^5.1.15",
     "@types/react": "^17.0.27",
     "@typescript-eslint/parser": "^4.33.0",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
