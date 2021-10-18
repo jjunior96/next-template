@@ -45,7 +45,7 @@
     "@storybook/react": "6.3.12",
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.0.2",
-    "@types/node": "^16.11.0",
+    "@types/node": "^16.11.1",
     "@types/styled-components": "^5.1.15",
     "@types/react": "^17.0.30",
     "@typescript-eslint/parser": "^4.33.0",
