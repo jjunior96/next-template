@@ -1,5 +1,7 @@
 A TypeScript starter for Next.js that includes all you need to build amazing projects 🔥
 
+**With Next.js 12!**
+
 - 📏 **ESLint** — Pluggable JavaScript linter
 - 💖 **Prettier** - Opinionated Code Formatter
 - 🐶 **Husky** — Use git hooks with ease
@@ -11,7 +13,7 @@ A TypeScript starter for Next.js that includes all you need to build amazing pro
 ### Other libs
 - **Axios**
 - **Polished**
-- **Unform**
+- **React Hook Form**
 - **Yup**
 
 
