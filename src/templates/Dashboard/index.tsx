@@ -2,7 +2,7 @@ import Main from 'components/Main';
 
 import * as S from './styles';
 
-const Dashboard: React.FC = () => {
+const Dashboard = () => {
   return (
     <S.Container>
       <Main />
