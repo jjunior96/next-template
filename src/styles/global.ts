@@ -44,7 +44,7 @@ const GlobalStyles = createGlobalStyle`
 
     body {
       font-size: ${theme.font.sizes.medium};
-      background-color: ${theme.colors.mainBg};
+      background-color: ${theme.colors.black};
     }
 
     body,
