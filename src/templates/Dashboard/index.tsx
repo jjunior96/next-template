@@ -4,9 +4,11 @@ import * as S from './styles';
 
 const Dashboard = () => {
   return (
-    <S.Container>
-      <Main />
-    </S.Container>
+    <Main>
+      <S.Container>
+        <h2>Test</h2>
+      </S.Container>
+    </Main>
   );
 };
 
