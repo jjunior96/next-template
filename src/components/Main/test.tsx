@@ -4,7 +4,11 @@ import Main from '.';
 
 describe('<Main />', () => {
   it('should render the heading', () => {
-    render(<Main />);
+    render(
+      <Main>
+        <h1>Next Example</h1>
+      </Main>
+    );
 
     expect(
       screen.getByRole('heading', { name: /Next Example/i })

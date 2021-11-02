@@ -7,4 +7,8 @@ export default {
   component: Main
 } as Meta;
 
-export const Basic: Story = (args) => <Main {...args} />;
+export const Basic: Story = (args) => (
+  <Main {...args}>
+    <h1>Next Example</h1>
+  </Main>
+);
