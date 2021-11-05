@@ -31,6 +31,7 @@
     "react/prop-types": "off",
     "react/react-in-jsx-scope": "off", // para trabalhar com NextJS apenas
     "@typescript-eslint/explicit-module-boundary-types": "off",
+    "@typescript-eslint/no-non-null-assertion": "off",
     "import-helpers/order-imports": [
       "warn",
       {
@@ -42,6 +43,7 @@
           "absolute",
           "/^components/",
           "/^pages/",
+          "/utils/",
           "/^store/",
           "/^styles/",
           "/^templates/",
