@@ -42,7 +42,7 @@
     "@storybook/addon-essentials": "6.3.12",
     "@storybook/react": "6.3.12",
     "@swc/core": "^1.2.112",
-    "@swc/jest": "^0.2.9",
+    "@swc/jest": "^0.2.11",
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.0.3",
