@@ -5431,6 +5431,20 @@ cli-table3@0.6.0:
   optionalDependencies:
     colors "^1.1.2"
 
+cli-testing-library@^1.0.0-alpha.10:
+  version "1.0.0-alpha.10"
+  resolved "https://registry.yarnpkg.com/cli-testing-library/-/cli-testing-library-1.0.0-alpha.10.tgz#97a5689a37d2a57c5c964575e491a7dd41d98b0b"
+  integrity sha512-hO1oZPOf3qxSi5V2x+5eXpQlI8akbRAwRdR3kyIWzyDms5jNoLL85//mYQGRPwrlbXlQz+YkH0ZxcHeS0wx1Pw==
+  dependencies:
+    "@babel/code-frame" "^7.10.4"
+    "@babel/runtime" "^7.12.5"
+    chalk "^4.1.0"
+    lz-string "^1.4.4"
+    pretty-format "^27.0.2"
+    strip-ansi "^6.0.1"
+    strip-final-newline "^2.0.0"
+    tree-kill "^1.2.2"
+
 cli-truncate@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/cli-truncate/-/cli-truncate-2.1.0.tgz#c39e28bf05edcde5be3b98992a22deed5a2b93c7"
@@ -11190,13 +11204,14 @@ platform@1.3.6:
   resolved "https://registry.yarnpkg.com/platform/-/platform-1.3.6.tgz#48b4ce983164b209c2d45a107adb31f473a6e7a7"
   integrity sha512-fnWVljUchTro6RiCFvCXBbNhJc2NijN7oIQxbwsyL0buWJPG85v81ehlHI9fXrJsMNgTofEoWIQeClKpgxFLrg==
 
-plop@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/plop/-/plop-3.0.1.tgz#be7475e018477cfccd6da2ba3405bf9a9c81f2d3"
-  integrity sha512-8flhJgatVhe2gySDXvP1Rey7j4UCsoNihGvAVZ5GOE6gA9FGZG+zYFEyQQgT1RbfL5VI0mYaHxkt8RNQSNw2bQ==
+plop@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/plop/-/plop-3.0.2.tgz#babd613c0efc0a650b3325a9917fa325f088e044"
+  integrity sha512-jP9JPwISnwd+wQvVv4JbCWI1JoNvwSATneVvXtsuDf3dQdr4m1C/OEpPhHt6h0mB1i0CJ+nsVHqzcCNgxRvTEA==
   dependencies:
     "@types/liftoff" "^4.0.0"
     chalk "^5.0.0"
+    cli-testing-library "^1.0.0-alpha.10"
     interpret "^2.2.0"
     liftoff "^4.0.0"
     minimist "^1.2.5"
@@ -13499,6 +13514,11 @@ tr46@^2.0.2:
   integrity sha512-3n1qG+/5kg+jrbTzwAykB5yRYtQCTqOGKq5U5PE3b0a1/mzo6snDhjGS0zJVJunO0NrT3Dg1MLy5TjWP/UJppg==
   dependencies:
     punycode "^2.1.1"
+
+tree-kill@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
+  integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
 
 trim-trailing-lines@^1.0.0:
   version "1.1.4"
