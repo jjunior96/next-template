@@ -3300,10 +3300,10 @@
     "@swc/core-win32-ia32-msvc" "^1.2.118"
     "@swc/core-win32-x64-msvc" "^1.2.118"
 
-"@swc/jest@^0.2.11":
-  version "0.2.11"
-  resolved "https://registry.yarnpkg.com/@swc/jest/-/jest-0.2.11.tgz#4e9f158747e61da556c46dc0b213f926b94b2068"
-  integrity sha512-2iYyhP3W6Kffs9bKHmrcALT2/SPIqfLlG8jPXvtNFvjIbapC+ChnqaqEl1rSm/iA8xk3xkhYLubohtGtNBWAmw==
+"@swc/jest@^0.2.14":
+  version "0.2.14"
+  resolved "https://registry.yarnpkg.com/@swc/jest/-/jest-0.2.14.tgz#75f8ebc9921a618ff07f0205adacddb6422b8f54"
+  integrity sha512-uHrnQA+n0ILmmoEXrZfmQiVl16BXhTHtjhrUEML6Kc7jao7DB6o+8dZznOsm09/ejpwXlksEWOaBEnKIpvkZBw==
   dependencies:
     "@jest/create-cache-key-function" "^27.3.1"
 
