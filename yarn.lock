@@ -10985,10 +10985,10 @@ react-helmet-async@^1.0.7:
     react-fast-compare "^3.2.0"
     shallowequal "^1.1.0"
 
-react-hook-form@^7.22.4:
-  version "7.22.4"
-  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.22.4.tgz#60119620c93915fa3e51ed0b3b9003a86ba9ac48"
-  integrity sha512-F8Ezs55y0PwLhBncOrJoRSP02SgDzDDeM/N4wNDTAYlettg2ZSJuEp20cbJUL7BZj8fvKVeFySPbXF145b0I6w==
+react-hook-form@^7.22.5:
+  version "7.22.5"
+  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.22.5.tgz#85a135f3c5ae02ccf73096a03fc14b45607e9baa"
+  integrity sha512-Q2zaeQFXdVQ8l3hcywhltH+Nzj4vo50wMVujHDVN/1Xy9IOaSZJwYBXA2CYTpK6rq41fnXviw3jTLb04c7Gu9Q==
 
 react-icons@^4.3.1:
   version "4.3.1"
