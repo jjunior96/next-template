@@ -26,7 +26,7 @@
     ]
   },
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^0.25.0",
     "next": "^12.0.8",
     "next-pwa": "^5.4.4",
     "polished": "^4.1.3",
