@@ -34,7 +34,7 @@ jobs:
         run: yarn test
 
       - name: Storybook
-        run: yarn storybook
+        run: yarn build-storybook
 
       - name: Build
         run: yarn build
