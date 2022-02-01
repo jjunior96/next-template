@@ -40,7 +40,7 @@
     "@babel/core": "^7.16.12",
     "@babel/preset-typescript": "^7.16.7",
     "@storybook/addon-essentials": "6.4.17",
-    "@storybook/react": "6.4.14",
+    "@storybook/react": "6.4.17",
     "@swc/core": "^1.2.135",
     "@swc/jest": "^0.2.17",
     "@testing-library/jest-dom": "^5.16.1",
