@@ -53,7 +53,7 @@
     "@typescript-eslint/parser": "^4.33.0",
     "babel-loader": "^8.2.4",
     "babel-plugin-inline-react-svg": "^2.0.1",
-    "babel-plugin-styled-components": "^2.0.6",
+    "babel-plugin-styled-components": "^2.0.7",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import-helpers": "^1.2.1",
