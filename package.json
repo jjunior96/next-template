@@ -44,7 +44,7 @@
     "@swc/core": "^1.2.165",
     "@swc/jest": "^0.2.20",
     "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^12.1.4",
+    "@testing-library/react": "^12.1.5",
     "@types/jest": "^27.4.1",
     "@types/node": "^17.0.23",
     "@types/react": "^17.0.43",
