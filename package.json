@@ -44,7 +44,7 @@
     "@storybook/addon-essentials": "6.4.22",
     "@storybook/react": "6.4.22",
     "@swc/core": "^1.2.181",
-    "@swc/jest": "^0.2.20",
+    "@swc/jest": "^0.2.21",
     "@testing-library/cypress": "^8.0.2",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
