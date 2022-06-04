@@ -6,7 +6,7 @@ const Dashboard = () => {
   return (
     <Main>
       <S.Container>
-        <h2>Test</h2>
+        <h2>Test 1</h2>
       </S.Container>
     </Main>
   );
