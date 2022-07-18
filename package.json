@@ -43,7 +43,7 @@
     "@babel/preset-typescript": "^7.18.6",
     "@storybook/addon-essentials": "6.5.9",
     "@storybook/react": "6.4.22",
-    "@swc/core": "^1.2.215",
+    "@swc/core": "^1.2.218",
     "@swc/jest": "^0.2.21",
     "@testing-library/cypress": "^8.0.3",
     "@testing-library/jest-dom": "^5.16.4",
