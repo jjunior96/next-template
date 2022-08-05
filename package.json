@@ -46,7 +46,7 @@
     "@swc/core": "^1.2.222",
     "@swc/jest": "^0.2.22",
     "@testing-library/cypress": "^8.0.3",
-    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
     "@types/jest": "^27.5.0",
     "@types/node": "^18.6.3",
