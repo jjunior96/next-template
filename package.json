@@ -36,7 +36,7 @@
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.36.1",
     "react-icons": "^4.4.0",
-    "styled-components": "5.3.5"
+    "styled-components": "5.3.6"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",
