@@ -1,8 +1,8 @@
 import { screen } from '@testing-library/react';
 
-import { renderWithTheme } from '../../utils/tests/helpers';
+import { renderWithTheme } from 'utils';
 
-import Main from '.';
+import Main from './Main';
 
 describe('<Main />', () => {
   it('should render the component', () => {
