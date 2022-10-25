@@ -1,6 +1,6 @@
 A TypeScript starter for Next.js that includes all you need to build amazing projects 🔥
 
-**With Next.js 12.3.2 & React 18!**
+**With Next.js 13 & React 18!**
 
 - 📏 **ESLint** — Pluggable JavaScript linter
 - 💖 **Prettier** - Opinionated Code Formatter
