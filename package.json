@@ -53,7 +53,7 @@
     "@testing-library/react": "^13.4.0",
     "@types/jest": "^27.5.0",
     "@types/node": "^18.11.10",
-    "@types/react": "^18.0.25",
+    "@types/react": "^18.0.26",
     "@types/styled-components": "^5.1.26",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
