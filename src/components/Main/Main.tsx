@@ -4,8 +4,6 @@ type MainProps = {
   children: React.ReactNode;
 };
 
-const foo = '';
-
 const Main = ({ children }: MainProps) => (
   <S.Container>
     <S.Content>{children}</S.Content>
