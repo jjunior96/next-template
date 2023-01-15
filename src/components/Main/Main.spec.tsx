@@ -6,7 +6,7 @@ describe('<Main />', () => {
   it('should render the component', () => {
     const { container } = render(
       <Main>
-        <h1>Next Examplee</h1>
+        <h1>Next Example</h1>
       </Main>
     );
 
