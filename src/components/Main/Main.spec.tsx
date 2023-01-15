@@ -11,7 +11,7 @@ describe('<Main />', () => {
     );
 
     expect(
-      screen.getByRole('heading', { name: /Next Example/i })
+      screen.getByRole('heading', { name: /next example/i })
     ).toBeInTheDocument();
 
     expect(container).toMatchSnapshot();
