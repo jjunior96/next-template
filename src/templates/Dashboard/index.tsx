@@ -8,10 +8,7 @@ const Dashboard = () => {
   return (
     <Main>
       <S.Container>
-        <h2>Test</h2>
-
-        {/* Nao precisa mais da tag <a/> como children */}
-        <Link href="/about">About</Link>
+        <Link href="/about">Link: About</Link>
       </S.Container>
     </Main>
   );
