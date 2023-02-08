@@ -3499,10 +3499,10 @@
     "@types/node" "*"
     form-data "^3.0.0"
 
-"@types/node@*", "@types/node@^18.11.19":
-  version "18.11.19"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.19.tgz#35e26df9ec441ab99d73e99e9aca82935eea216d"
-  integrity sha512-YUgMWAQBWLObABqrvx8qKO1enAvBUdjZOAWQ5grBAkp5LQv45jBvYKZ3oFS9iKRCQyFjqw6iuEa1vmFqtxYLZw==
+"@types/node@*", "@types/node@^18.13.0":
+  version "18.13.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.13.0.tgz#0400d1e6ce87e9d3032c19eb6c58205b0d3f7850"
+  integrity sha512-gC3TazRzGoOnoKAhUx+Q0t8S9Tzs74z7m0ipwGpSqQrleP14hKxP4/JUeEQcD3W1/aIpnWl8pHowI7WokuZpXg==
 
 "@types/node@^14.0.10", "@types/node@^14.14.31":
   version "14.18.36"
@@ -10769,10 +10769,10 @@ node-libs-browser@^2.2.1:
     util "^0.11.0"
     vm-browserify "^1.0.1"
 
-node-plop@^0.31.0:
-  version "0.31.0"
-  resolved "https://registry.yarnpkg.com/node-plop/-/node-plop-0.31.0.tgz#2bbcd12bcbeac27553e7cf198712a06e47f28870"
-  integrity sha512-aKLPxiBoFTNUovvtK8j/Whc4PZREkYx6htw2HJPiU8wYquXmN8pkd9B3xlFo6AJ4ZlzFsQSf/NXR5xET8EqRYw==
+node-plop@^0.31.1:
+  version "0.31.1"
+  resolved "https://registry.yarnpkg.com/node-plop/-/node-plop-0.31.1.tgz#20dd03e6ffe6d5c56bc38fc0b04df3475c33c7d5"
+  integrity sha512-qmXJJt3YETFt/e0dtMADVpvck6EvN01Jig086o+J3M6G++mWA7iJ3Pqz4m4kvlynh73Iz2/rcZzxq7xTiF+aIQ==
   dependencies:
     "@types/inquirer" "^8.2.1"
     change-case "^4.1.2"
@@ -11498,17 +11498,17 @@ pkg-dir@^5.0.0:
   dependencies:
     find-up "^5.0.0"
 
-plop@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/plop/-/plop-3.1.1.tgz#7d86d16f829bd509cc76e2a0ff1c67ebf8d22067"
-  integrity sha512-NuctKmuNUACXBQn25bBr5oj/75nHxdKGwjA/+b7cVoj1sp+gTVqcc8eAr4QcNJgMPsZWRJBN2kMkgmsqbqV9gg==
+plop@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/plop/-/plop-3.1.2.tgz#9bf738def2961d02b5a403b7f2a31f375b49c1e0"
+  integrity sha512-39SOtQ3WlePXSNqKqAh/QlUSHXHO25iCnyCO3Qs/9UzPVmwVledRTDGvPd2csh+JnHVXz4c63F6fBwdqZHgbUg==
   dependencies:
     "@types/liftoff" "^4.0.0"
     chalk "^5.0.1"
     interpret "^2.2.0"
     liftoff "^4.0.0"
     minimist "^1.2.6"
-    node-plop "^0.31.0"
+    node-plop "^0.31.1"
     ora "^6.0.1"
     v8flags "^4.0.0"
 
@@ -11680,10 +11680,10 @@ prettier-linter-helpers@^1.0.0:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.0.tgz#b6a5bf1284026ae640f17f7ff5658a7567fc0d18"
   integrity sha512-kXtO4s0Lz/DW/IJ9QdWhAf7/NmPWQXkFr/r/WkR3vyI+0v8amTDxiaQSLzs8NBlytfLWX/7uQUMIW677yLKl4w==
 
-prettier@^2.8.3:
-  version "2.8.3"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.3.tgz#ab697b1d3dd46fb4626fbe2f543afe0cc98d8632"
-  integrity sha512-tJ/oJ4amDihPoufT5sM0Z1SKEuKay8LfVAMlbbhnnkvt6BUserZylqo2PN+p9KeljLr0OHa2rXHU1T8reeoTrw==
+prettier@^2.8.4:
+  version "2.8.4"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.4.tgz#34dd2595629bfbb79d344ac4a91ff948694463c3"
+  integrity sha512-vIS4Rlc2FNh0BySk3Wkd6xmwxB0FpOndW5fisM5H8hsZSxU2VWVB5CWIkIjWvrHjIhxk2g3bfMKM87zNTrZddw==
 
 pretty-bytes@^5.3.0, pretty-bytes@^5.4.1, pretty-bytes@^5.6.0:
   version "5.6.0"
@@ -12026,10 +12026,10 @@ react-helmet-async@^1.0.7:
     react-fast-compare "^3.2.0"
     shallowequal "^1.1.0"
 
-react-hook-form@^7.43.0:
-  version "7.43.0"
-  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.43.0.tgz#d0c19b5c4ec561fbf8d652869ccb513c11c772e7"
-  integrity sha512-/rVEz7T0gLdSFwPqutJ1kn2e0sQNyb9ci/hmwEYr2YG0KF/LSuRLvNrf9QWJM+gj88CjDpDW5Bh/1AD7B2+z9Q==
+react-hook-form@^7.43.1:
+  version "7.43.1"
+  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.43.1.tgz#0d0d7822f3f7fc05ffc41d5f012b49b90fcfa0f0"
+  integrity sha512-+s3+s8LLytRMriwwuSqeLStVjRXFGxgjjx2jED7Z+wz1J/88vpxieRQGvJVvzrzVxshZ0BRuocFERb779m2kNg==
 
 react-icons@^4.7.1:
   version "4.7.1"
