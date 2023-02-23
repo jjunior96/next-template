@@ -2101,7 +2101,7 @@
     global "^4.4.0"
     regenerator-runtime "^0.13.7"
 
-"@storybook/addons@6.5.16", "@storybook/addons@^6.5.13":
+"@storybook/addons@6.5.16", "@storybook/addons@^6.5.16":
   version "6.5.16"
   resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-6.5.16.tgz#07e8f2205f86fa4c9dada719e3e096cb468e3cdd"
   integrity sha512-p3DqQi+8QRL5k7jXhXmJZLsE/GqHqyY6PcoA1oNTJr0try48uhTGUOYkgzmqtDaa/qPFO5LP+xCPzZXckGtquQ==
@@ -11563,7 +11563,7 @@ postcss-loader@^4.2.0:
     schema-utils "^3.0.0"
     semver "^7.3.4"
 
-postcss-loader@^7.0.1:
+postcss-loader@^7.0.2:
   version "7.0.2"
   resolved "https://registry.yarnpkg.com/postcss-loader/-/postcss-loader-7.0.2.tgz#b53ff44a26fba3688eee92a048c7f2d4802e23bb"
   integrity sha512-fUJzV/QH7NXUAqV8dWJ9Lg4aTkDCezpTS5HgJ2DvqznexTbSTxgi/dTECvTZ15BwKTtk8G/bqI/QTu2HPd3ZCg==
@@ -13151,19 +13151,19 @@ storybook-addon-next-router@^4.0.2:
   dependencies:
     tslib "2.4.0"
 
-storybook-addon-next@^1.7.1:
-  version "1.7.1"
-  resolved "https://registry.yarnpkg.com/storybook-addon-next/-/storybook-addon-next-1.7.1.tgz#0d60ec324f355ff0fa3d6045c8c08e2ef082f553"
-  integrity sha512-SSbD91CUNSKiTMYfbqBGUkbRuSiC7+q7D4bRqDgHI2kSJn4wi99/ccFVGCegTRJoJqljwtEJ/vEqQ253L64hVQ==
+storybook-addon-next@^1.7.2:
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/storybook-addon-next/-/storybook-addon-next-1.7.2.tgz#390179c8ca8a4227530720a3a3a34ae86a2ea3cc"
+  integrity sha512-1A3eAx8LKbAjraHGAaA79kXQlf4RyfdqYpLyhng0TXdlbaUV45680gTL/+1loISFKrYP8ZY8ipmOKCkAtmKgQg==
   dependencies:
-    "@storybook/addons" "^6.5.13"
+    "@storybook/addons" "^6.5.16"
     image-size "^1.0.0"
     loader-utils "^3.2.1"
-    postcss-loader "^7.0.1"
+    postcss-loader "^7.0.2"
     resolve-url-loader "^5.0.0"
     sass-loader "^13.2.0"
     semver "^7.3.8"
-    tsconfig-paths "^4.0.0"
+    tsconfig-paths "^4.1.2"
     tsconfig-paths-webpack-plugin "^4.0.0"
 
 stream-browserify@^2.0.1:
@@ -13847,7 +13847,7 @@ tsconfig-paths@^3.14.1:
     minimist "^1.2.6"
     strip-bom "^3.0.0"
 
-tsconfig-paths@^4.0.0:
+tsconfig-paths@^4.0.0, tsconfig-paths@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/tsconfig-paths/-/tsconfig-paths-4.1.2.tgz#4819f861eef82e6da52fb4af1e8c930a39ed979a"
   integrity sha512-uhxiMgnXQp1IR622dUXI+9Ehnws7i/y6xvpZB9IbUVOPy0muvdvgXeZOn88UcGPiT98Vp3rJPTa8bFoalZ3Qhw==
