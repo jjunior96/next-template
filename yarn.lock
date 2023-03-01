@@ -13151,10 +13151,10 @@ storybook-addon-next-router@^4.0.2:
   dependencies:
     tslib "2.4.0"
 
-storybook-addon-next@^1.7.2:
-  version "1.7.2"
-  resolved "https://registry.yarnpkg.com/storybook-addon-next/-/storybook-addon-next-1.7.2.tgz#390179c8ca8a4227530720a3a3a34ae86a2ea3cc"
-  integrity sha512-1A3eAx8LKbAjraHGAaA79kXQlf4RyfdqYpLyhng0TXdlbaUV45680gTL/+1loISFKrYP8ZY8ipmOKCkAtmKgQg==
+storybook-addon-next@^1.7.3:
+  version "1.7.3"
+  resolved "https://registry.yarnpkg.com/storybook-addon-next/-/storybook-addon-next-1.7.3.tgz#507567d4bd5f46fffee5e2aa558f45a19681a850"
+  integrity sha512-CgtcuOI/uf9djH14wvGgaldfOeSopcEF249DssSHnF1ikrkpstSCXqHPx6CDKm2LWVUsY10nWgxSFIaH6zg7Zg==
   dependencies:
     "@storybook/addons" "^6.5.16"
     image-size "^1.0.0"
