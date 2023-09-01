@@ -39,7 +39,8 @@
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.45.4",
     "react-icons": "^4.10.1",
-    "styled-components": "5.3.11"
+    "styled-components": "5.3.11",
+    "jest-environment-jsdom": "^29.6.4"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.0.2",
