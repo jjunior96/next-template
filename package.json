@@ -33,7 +33,7 @@
     "axios": "^1.5.1",
     "cors": "^2.8.5",
     "eslint-config-next": "^13.5.4",
-    "next": "^13.5.3",
+    "next": "^13.5.4",
     "next-connect": "^1.0.0",
     "next-pwa": "^5.5.5",
     "polished": "^4.2.2",
