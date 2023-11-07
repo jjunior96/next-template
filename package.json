@@ -54,7 +54,7 @@
     "@testing-library/cypress": "^10.0.1",
     "@testing-library/jest-dom": "^6.1.4",
     "@testing-library/react": "^14.0.0",
-    "@types/cors": "^2.8.15",
+    "@types/cors": "^2.8.16",
     "@types/jest": "^27.5.0",
     "@types/node": "^20.8.10",
     "@types/react": "^18.2.36",
