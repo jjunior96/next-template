@@ -30,7 +30,7 @@
     ]
   },
   "dependencies": {
-    "axios": "^1.6.0",
+    "axios": "^1.6.1",
     "cors": "^2.8.5",
     "eslint-config-next": "^14.0.1",
     "next": "^13.5.6",
