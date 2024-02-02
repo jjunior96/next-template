@@ -53,7 +53,7 @@
     "@swc/jest": "^0.2.31",
     "@testing-library/cypress": "^10.0.1",
     "@testing-library/jest-dom": "^6.4.1",
-    "@testing-library/react": "^14.2.0",
+    "@testing-library/react": "^14.2.1",
     "@types/cors": "^2.8.17",
     "@types/jest": "^27.5.0",
     "@types/node": "^20.11.16",
