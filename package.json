@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
-    "@storybook/addon-essentials": "7.0.27",
+    "@storybook/addon-essentials": "8.0.1",
     "@storybook/builder-webpack5": "^8.0.1",
     "@storybook/manager-webpack5": "^6.5.16",
     "@storybook/react": "6.4.22",
