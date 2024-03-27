@@ -57,7 +57,7 @@
     "@types/cors": "^2.8.17",
     "@types/jest": "^27.5.0",
     "@types/node": "^20.11.30",
-    "@types/react": "^18.2.70",
+    "@types/react": "^18.2.72",
     "@types/styled-components": "^5.1.26",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
