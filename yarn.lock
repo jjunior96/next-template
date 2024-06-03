@@ -4113,18 +4113,18 @@
   dependencies:
     "@swc/counter" "^0.1.3"
 
-"@testing-library/cypress@^10.0.1":
-  version "10.0.1"
-  resolved "https://registry.yarnpkg.com/@testing-library/cypress/-/cypress-10.0.1.tgz#15abae0edb83237316ec6d07e152b71a50b38387"
-  integrity sha512-e8uswjTZIBhaIXjzEcrQQ8nHRWHgZH7XBxKuIWxZ/T7FxfWhCR48nFhUX5nfPizjVOKSThEfOSv67jquc1ASkw==
+"@testing-library/cypress@^10.0.2":
+  version "10.0.2"
+  resolved "https://registry.yarnpkg.com/@testing-library/cypress/-/cypress-10.0.2.tgz#5d360f2aa43708c6c92e24765f892b09f3a58912"
+  integrity sha512-dKv95Bre5fDmNb9tOIuWedhGUryxGu1GWYWtXDqUsDPcr9Ekld0fiTb+pcBvSsFpYXAZSpmyEjhoXzLbhh06yQ==
   dependencies:
     "@babel/runtime" "^7.14.6"
-    "@testing-library/dom" "^9.0.0"
+    "@testing-library/dom" "^10.1.0"
 
-"@testing-library/dom@^10.0.0":
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-10.0.0.tgz#ae1ab88aad35a728a38264041163174cafd7e8dd"
-  integrity sha512-PmJPnogldqoVFf+EwbHvbBJ98MmqASV8kLrBYgsDNxQcFMeIS7JFL48sfyXvuMtgmWO/wMhh25odr+8VhDmn4g==
+"@testing-library/dom@^10.0.0", "@testing-library/dom@^10.1.0":
+  version "10.1.0"
+  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-10.1.0.tgz#2d073e49771ad614da999ca48f199919e5176fb6"
+  integrity sha512-wdsYKy5zupPyLCW2Je5DLHSxSfbIp6h80WoHOQc+RPtmPGA52O9x5MJEkv92Sjonpq+poOAtUKhh1kBGAXBrNA==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/runtime" "^7.12.5"
@@ -4133,20 +4133,6 @@
     chalk "^4.1.0"
     dom-accessibility-api "^0.5.9"
     lz-string "^1.5.0"
-    pretty-format "^27.0.2"
-
-"@testing-library/dom@^9.0.0":
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-9.0.0.tgz#cc50e8df2a7dccff95555102beebbae60e95e95e"
-  integrity sha512-+/TLgKNFsYUshOY/zXsQOk+PlFQK+eyJ9T13IDVNJEi+M+Un7xlJK+FZKkbGSnf0+7E1G6PlDhkSYQ/GFiruBQ==
-  dependencies:
-    "@babel/code-frame" "^7.10.4"
-    "@babel/runtime" "^7.12.5"
-    "@types/aria-query" "^5.0.1"
-    aria-query "^5.0.0"
-    chalk "^4.1.0"
-    dom-accessibility-api "^0.5.9"
-    lz-string "^1.4.4"
     pretty-format "^27.0.2"
 
 "@testing-library/jest-dom@^6.4.5":
@@ -11993,11 +11979,6 @@ lru-cache@^6.0.0:
   version "10.0.0"
   resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-10.0.0.tgz#b9e2a6a72a129d81ab317202d93c7691df727e61"
   integrity sha512-svTf/fzsKHffP42sujkO/Rjs37BCIsQVRCeNYIm9WN8rgT7ffoUnRtZCqU+6BqcSBdv8gwJeTz8knJpgACeQMw==
-
-lz-string@^1.4.4:
-  version "1.4.4"
-  resolved "https://registry.yarnpkg.com/lz-string/-/lz-string-1.4.4.tgz#c0d8eaf36059f705796e1e344811cf4c498d3a26"
-  integrity sha512-0ckx7ZHRPqb0oUm8zNr+90mtf9DQB60H1wMCjBtfi62Kl3a7JbHob6gA2bC+xRvZoOL+1hzUK8jeuEIQE8svEQ==
 
 lz-string@^1.5.0:
   version "1.5.0"
