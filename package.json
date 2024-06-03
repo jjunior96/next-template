@@ -74,7 +74,7 @@
     "jest-styled-components": "^7.2.0",
     "lint-staged": "^15.2.5",
     "plop": "^4.0.1",
-    "prettier": "^2.8.8",
+    "prettier": "^3.3.0",
     "storybook-addon-next": "^1.8.0",
     "storybook-addon-next-router": "^4.0.2",
     "ts-jest": "^27.1.4",
