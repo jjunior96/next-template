@@ -32,7 +32,7 @@
   "dependencies": {
     "axios": "^1.7.2",
     "cors": "^2.8.5",
-    "eslint-config-next": "^14.2.3",
+    "eslint-config-next": "^14.2.4",
     "next": "^13.5.6",
     "next-connect": "^1.0.0",
     "next-pwa": "^5.5.5",
