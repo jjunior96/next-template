@@ -1909,10 +1909,10 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.57.1.tgz#de633db3ec2ef6a3c89e2f19038063e8a122e2c2"
   integrity sha512-d9zaMRSTIKDLhctzH12MtXvJKSSUhaHcjV+2Z+GK+EEY7XKpP5yR4x+N3TAcHTcu963nIr+TMcCb4DBCYX1z6Q==
 
-"@faker-js/faker@^9.0.0":
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-9.0.0.tgz#3cc9af90c784d1081ebd0d85ea10bc648fc5c981"
-  integrity sha512-dTDHJSmz6c1OJ6HO7jiUiIb4sB20Dlkb3pxYsKm0qTXm2Bmj97rlXIhlvaFsW2rvCi+OLlwKLVSS6ZxFUVZvjQ==
+"@faker-js/faker@^9.0.2":
+  version "9.0.2"
+  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-9.0.2.tgz#1d8decd97dafab745760980ae57605bbdb618564"
+  integrity sha512-nI/FP30ZGXb+UaR7yXawVTH40NVKXPIx0tA3GKjkKLjorqBoMAeq4iSEacl8mJmpVhOCDa0vYHwYDmOOcFMrYw==
 
 "@gar/promisify@^1.0.1":
   version "1.1.3"
